@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../my cpp"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../myweb"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mycss"
+	}
+}
